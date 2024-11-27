@@ -1,10 +1,6 @@
 import streamlit as st
 from transformers import pipeline
 
-import streamlit as st
-from transformers import pipeline
-
-
 st.title("sentiment Analysis App")
 
 st.write("Welcome to my app")
